@@ -1,5 +1,4 @@
 # ✨ Helloo!
-<img align="right" src="https://www.pngplay.com/wp-content/uploads/9/Kirby-Download-Free-PNG.png" alt="kirby" width="25%" height="25%"/>
 
 My name is Hannabbie. I'm a student of Engineering in Data Science.
 
