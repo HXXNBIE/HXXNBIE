@@ -31,4 +31,4 @@ I mainly focus on process automation in systems, but I also enjoy learning progr
 ![Static Badge](https://img.shields.io/badge/Favorite_OS%3A-%23000000?style=for-the-badge&label=%E2%9C%A8&labelColor=%237D4698) ![Debian](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23A81D33&labelColor=%23FFFFFF) ![Fedora](https://img.shields.io/badge/Fedora-%2351A2DA?style=for-the-badge&logo=fedora&logoColor=%2351A2DA&labelColor=%23FFFFFF) ![Parrot](https://img.shields.io/badge/Parrot-%2315E0ED?style=for-the-badge&logo=parrot-security&logoColor=%2315E0ED&labelColor=%23FFFFFF)
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HXXNBIE&theme=omni&hide_border=true&background=000000)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HXXNBIE&layout=compact&langs_count=5&title_color=ffffff&text_color=ffffff&bg_color=000000&include=java" width="50%">
+[![GitHub Streak](https://streak-stats.demolab.com?user=HXXNBIE&theme=shadow-purple&locale=es&short_numbers=true)](https://git.io/streak-stats)
